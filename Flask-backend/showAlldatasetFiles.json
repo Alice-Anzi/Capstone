@@ -1,0 +1,58 @@
+[
+  {
+    "_id": {
+      "$oid": "609bf5c0b495ac6cb1f15213"
+    },
+    "FileName": "ex_ndy.dat",
+    "BriefInfo": "new briefInfo",
+    "Size": "4.93KB",
+    "Description": "",
+    "Source": "",
+    "Number_of_Attribute": 5,
+    "Number_of_Instance": 96,
+    "UserName": "17888813173@163.com",
+    "ModelName": "animal.cod"
+  },
+  {
+    "_id": {
+      "$oid": "609bf5deb495ac6cb1f15214"
+    },
+    "FileName": "copy(1)_ex_ndy.dat",
+    "BriefInfo": "",
+    "Size": "4.93KB",
+    "Description": "",
+    "Source": "",
+    "Number_of_Attribute": 5,
+    "Number_of_Instance": 96,
+    "UserName": "17888813173@163.com",
+    "ModelName": ""
+  },
+  {
+    "_id": {
+      "$oid": "609e48c6277e87548cb44926"
+    },
+    "FileName": "copy(2)_ex_ndy.dat",
+    "BriefInfo": "",
+    "Size": "4.93KB",
+    "Description": "",
+    "Source": "",
+    "Number_of_Attribute": 5,
+    "Number_of_Instance": 96,
+    "UserName": "17888813173@163.com",
+    "ModelName": "ex.cod"
+  },
+  {
+    "_id": {
+      "$oid": "60a33bdd72b42fbdcfde1820"
+    },
+    "FileName": "result.dat",
+    "BriefInfo": "",
+    "Size": "2.095KB",
+    "Description": "",
+    "Source": "",
+    "Number_of_Attribute": 5,
+    "Number_of_Instance": 48,
+    "UserName": "17888813173@163.com",
+    "ModelName": "copy(1)_animal.cod"
+  }
+]

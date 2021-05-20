@@ -1,0 +1,90 @@
+{
+    "0":{
+        "column1": 5.1,
+        "column2": 3.5,
+        "column3": 1.4,
+        "column4": 0.2,
+        "label": "Setosa"
+    },
+
+    "1":{
+        "column1": 4.9,
+        "column2": 3,
+        "column3": 1.4,
+        "column4": 0.2,
+        "label": "Setosa"
+    },
+
+    "2":{
+        "column1": 4.7,
+        "column2": 3.2,
+        "column3": 1.3,
+        "column4": 0.2,
+        "label": "Setosa"
+    },
+
+    "3":{
+        "column1": 7,
+        "column2": 3.2,
+        "column3": 4.7,
+        "column4": 1.4,
+        "label": "Versicolor"
+    },
+
+    "4":{
+        "column1": 6.3,
+        "column2": 3.3,
+        "column3": 6,
+        "column4": 2.5,
+        "label": "Virginica"
+    },
+    "5":{
+        "column1": 6.3,
+        "column2": 3.3,
+        "column3": 6,
+        "column4": 2.5,
+        "label": "Virginica"
+    },
+    "6":{
+        "column1": 6.3,
+        "column2": 3.3,
+        "column3": 6,
+        "column4": 2.5,
+        "label": "Virginica"
+    },
+    "7":{
+        "column1": 6.3,
+        "column2": 3.3,
+        "column3": 6,
+        "column4": 2.5,
+        "label": "Virginica"
+    },
+    "8":{
+        "column1": 6.3,
+        "column2": 3.3,
+        "column3": 6,
+        "column4": 2.5,
+        "label": "Virginica"
+    },
+    "9":{
+        "column1": 6.3,
+        "column2": 3.3,
+        "column3": 6,
+        "column4": 2.5,
+        "label": "Virginica"
+    },
+    "10":{
+        "column1": 6.3,
+        "column2": 3.3,
+        "column3": 6,
+        "column4": 2.5,
+        "label": "Virginica"
+    },
+    "11":{
+        "column1": 6.3,
+        "column2": 3.3,
+        "column3": 6,
+        "column4": 2.5,
+        "label": "Virginica"
+    }
+}

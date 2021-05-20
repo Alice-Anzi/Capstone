@@ -1,0 +1,23 @@
+[
+  {
+    "_id": {
+      "$oid": "60a3302d7b00cb109d6c9391"
+    },
+    "FileName": "animal.txt",
+    "BriefInfo": "",
+    "Size": "0.626KB",
+    "Description": "",
+    "Source": "",
+    "Number_of_Attribute": 17,
+    "Number_of_Instance": 16,
+    "Keywords": [],
+    "AttrInfo": [
+      {
+        "attrName": "",
+        "attrDescription": ""
+      }
+    ],
+    "UserName": "17888813173@163.com",
+    "copy": 0
+  }
+]
